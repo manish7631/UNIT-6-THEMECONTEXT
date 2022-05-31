@@ -1,5 +1,15 @@
 .App {
   text-align: center;
+  height: 100vh;
+}
+
+.Light{
+  background-color: wheat;
+  color: black;
+}
+.Dark{
+  background-color: black;
+  color: white;
 }
 
 .App-logo {
